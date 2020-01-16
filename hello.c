@@ -5,6 +5,7 @@ Date: 2020/01/16*/
 int main(void) 
 {
 printf("Albert Li\n");
+printf("Computer Science\n");
 return 0;
 }
 
