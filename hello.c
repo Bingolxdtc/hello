@@ -6,6 +6,8 @@ int main(void)
 {
 printf("Albert Li\n");
 printf("Computer Science\n");
+printf("Lixin Cao\n");
+printf("mathematics");
 return 0;
 }
 
